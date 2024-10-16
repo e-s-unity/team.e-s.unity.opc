@@ -1,21 +1,20 @@
 {
-  "name": "net.es.unity.opc",
+  "name": "team.e-s.unity.opc",
   "version": "3.4.0",
   "displayName": "UniOPC",
-  "description": "Provides components for the OPC UA or DA (Classic)",
+  "description": "Provides components for the OPC UA (Unified Architecture)",
   "unity": "2023.2",
   "dependencies": {
-    "org.opc-foundation.net-standard": "https://github.com/h-f-xr/org.opc-foundation.net-standard#1.4.371"
+    "org.opc-foundation.ua.net-standard": "https://github.com/lain-es/org.opc-foundation.ua.net-standard.git#1.4.371"
   },
   "license": "MIT",
   "keywords": [
     "OPC",
     "OPC UA",
-    "OPC DA",
     "Communication"
   ],
   "author": {
-    "name": "Es",
+    "name": "E/s",
     "email": "lain_score@outlook.com"
   }
 }
