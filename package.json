@@ -5,7 +5,7 @@
   "description": "Provides components for the OPC UA (Unified Architecture)",
   "unity": "2023.2",
   "dependencies": {
-    "org.opc-foundation.ua.net-standard": "https://github.com/lain-es/org.opc-foundation.ua.net-standard.git#1.4.371"
+    "org.opc-foundation.ua.net-standard": "1.4.371"
   },
   "license": "MIT",
   "keywords": [
